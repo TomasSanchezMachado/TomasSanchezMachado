@@ -2,40 +2,37 @@
 <h1 align="center"><b>Hi , I'm Tomás Sanchez Machado</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Systems+Engineering+Student;Full+Stack+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Systems+Engineering+Student;Full+Stack+Develper" alt="Typing SVG" /></a>
 </p>
 
 
-## <picture><img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHh5cmxpenZwdTN2b3Bqcm1xcHh2Mm9lZWloc2RjanMzbXVwNDI2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4A4CWUvoTVfBDQ5rt7/giphy.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://media.giphy.com/media/IbgaMPs8P7Y4hQe6yh/giphy.gif?cid=ecf05e47ppklfpr9wuwmn8h49kz7mhtoqlwm4sh7jqm6j8fj&ep=v1_stickers_related&rid=giphy.gif&ct=s" width = 50px></picture> **About me**
 
 
 - A passionate Self-taught Front-end developer
 - Playing CTF's at spare time
 - Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Personal website [link](https://github.com/TomasSanchezMachado)
+- I’m currently open for an Intern or a new job opportunity, this is [my CV]()
 
 <ul style="display: flex; padding: 0; list-style-type: none;">
   <li style="margin-right: 10px;">
     <a href="https://linkedin.com/in/tomassanchezmachado" target="_blank">
-      <img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/>
+      <img src="https://img.shields.io/badge/linkedin:  tomasanchezmachado-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/>
     </a>
   </li>
 
   <li>
     <a href="mailto:sanchezmachadotomas@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
+      <img src="https://img.shields.io/badge/gmail:  sanchezmachadotomas@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
     </a>
   </li>
 </ul>
 
 
-<br>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
 
 <p align="center">
 
