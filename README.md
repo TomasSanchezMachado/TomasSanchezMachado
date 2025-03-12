@@ -9,11 +9,11 @@
 ## <picture><img src = "https://media.giphy.com/media/IbgaMPs8P7Y4hQe6yh/giphy.gif?cid=ecf05e47ppklfpr9wuwmn8h49kz7mhtoqlwm4sh7jqm6j8fj&ep=v1_stickers_related&rid=giphy.gif&ct=s" width = 50px></picture> **About me**
 
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
+- Passionate about software development
+- Currently in my 4th year of systems engineering
+- Currently working with Python, Django, and PostgreSQL
 - Personal website [link](https://github.com/TomasSanchezMachado)
-- I’m currently open for an Intern or a new job opportunity, this is [my CV]()
+- I am currently open to a new job opportunity, this is [my CV](https://github.com/TomasSanchezMachado)
 
 <ul style="display: flex; padding: 0; list-style-type: none;">
   <li style="margin-right: 10px;">
