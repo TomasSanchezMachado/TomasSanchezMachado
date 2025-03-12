@@ -10,7 +10,7 @@
 
 
 - Passionate about software development
-- Currently in my 4th year of systems engineering
+- Currently in my 4th year of Systems Engineering
 - Currently working with Python, Django, and PostgreSQL
 - Personal website [link](https://github.com/TomasSanchezMachado)
 - I am currently open to a new job opportunity, this is [my CV](https://github.com/TomasSanchezMachado)
