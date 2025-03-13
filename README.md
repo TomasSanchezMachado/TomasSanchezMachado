@@ -6,7 +6,7 @@
 </p>
 
 
-## <picture><img src = "https://media.giphy.com/media/IbgaMPs8P7Y4hQe6yh/giphy.gif?cid=ecf05e47ppklfpr9wuwmn8h49kz7mhtoqlwm4sh7jqm6j8fj&ep=v1_stickers_related&rid=giphy.gif&ct=s" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> **About me**
 
 
 - Passionate about software development
