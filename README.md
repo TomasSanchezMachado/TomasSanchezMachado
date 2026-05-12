@@ -12,8 +12,8 @@
 - Passionate about software development
 - Currently in my 4th year of Systems Engineering
 - Currently working as a Back-End developer with Python, Django and PostgreSQL
-- Personal website [link](https://github.com/TomasSanchezMachado)
-- I am currently open to a new job opportunity, this is [my CV](https://github.com/TomasSanchezMachado)
+<!--- Personal website [link](https://github.com/TomasSanchezMachado)
+- I am currently open to a new job opportunity, this is [my CV](https://github.com/TomasSanchezMachado) -->
 
 <ul style="display: flex; padding: 0; list-style-type: none;">
   <li style="margin-right: 10px;">
